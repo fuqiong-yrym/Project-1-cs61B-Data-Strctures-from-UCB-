@@ -9,7 +9,7 @@ Part I includes the following:
 - Implement a class called PixImage that stores a color image
 - Implement methods boxBlur() and sobelEdges()
 
-The details of assignment requirement can be found in project1_readme.pdf
+The details of assignment requirement can be found in readme_project1.pdf
 
 In Unix, run the command to complie against the JAI image libraries in the .jar files included:
 
