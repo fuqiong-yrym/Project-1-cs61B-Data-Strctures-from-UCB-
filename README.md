@@ -1,4 +1,4 @@
-# Project-1-cs61B-Data-Strctures-from-UC-Berkeley
+# Project-1-cs61B-Data-Structures-from-UC-Berkeley
 
 This repository includes the partial solutions (part I) to project 1 of CS61B from UC Berkeley.  
 
