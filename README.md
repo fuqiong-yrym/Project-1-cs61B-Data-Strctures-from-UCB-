@@ -25,7 +25,7 @@ The the main() methods in Java classes Blur.java and Sobel.java read an image in
    ```
 
 <p align="center">
-  <img src="highcontrast.tiff" width=400 height=300> 
-  <img src="blur_highcontrast.tiff" width=400 height=300>
-  <img src="edge_highcontrast.tiff" width=400 height=300>
+  <img src="highcontrast.jpg" width=400 height=300> 
+  <img src="blur_highcontrast.jpg" width=400 height=300>
+  <img src="edge_highcontrast.jpg" width=400 height=300>
 </p>
